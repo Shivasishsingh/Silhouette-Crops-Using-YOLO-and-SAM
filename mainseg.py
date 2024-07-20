@@ -103,6 +103,6 @@ def crop_silhouette(binary_mask, image_path, output_folder):
         return None
 
 # Example usage
-input_folder = 'um2-out'
-output_folder = 'mainoutput'
+input_folder = 'place_here_your-input_folder'
+output_folder = 'place_here_output_folder'
 process_images(input_folder, output_folder)

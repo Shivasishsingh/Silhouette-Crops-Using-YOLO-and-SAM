@@ -67,5 +67,5 @@ pip install opencv-python numpy torch pillow torchvision
 ```
 ## Run the script:
 ```bash
-python mainseg.py
+python dlseg.py
 ```

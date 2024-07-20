@@ -69,3 +69,6 @@ pip install opencv-python numpy torch pillow torchvision
 ```bash
 python dlseg.py
 ```
+## Screenshots
+
+![App Screenshot](https://media.geeksforgeeks.org/wp-content/uploads/20230731184445/Image-Segmentation-with-Mask-R-CNN-GrabCut-and-OpenCV-(1)-(1).webp)

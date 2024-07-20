@@ -33,7 +33,7 @@ cd ImageSegmentationWithYOLOandSAM
 ```
 ## Run the script:
 ```bash
-python mainseg.py
+python sam_yolo.py
 ```
 
 

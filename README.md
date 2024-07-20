@@ -29,11 +29,12 @@ wget https://dl.fbaipublicfiles.com/segment_anything/sam_vit_h_4b8939.pth
 # Clone this repository:
 git clone https://github.com/yourusername/ImageSegmentationWithYOLOandSAM.git
 cd ImageSegmentationWithYOLOandSAM
-# Run the script:
-python mainseg.py
 
 ```
-
+## Run the script:
+```bash
+python mainseg.py
+```
 
 
 

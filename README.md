@@ -1,4 +1,4 @@
-# Image Segmentation with YOLO and Segment Anything Model (SAM)
+# 1.Image Segmentation with YOLO and Segment Anything Model (SAM)
 
 This repository contains Python code for performing image segmentation using the YOLO (You Only Look Once) model for object detection and the Segment Anything Model (SAM) for segmentation tasks. The primary goal of this project is to process images, generate silhouette masks, and crop these silhouettes based on detected contours.
 

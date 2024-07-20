@@ -35,8 +35,7 @@ cd ImageSegmentationWithYOLOandSAM
 ```bash
 python sam_yolo.py
 ```
-## example
-![one](https://github.com/user-attachments/assets/af1cf9b8-f7ab-42e9-9ee9-081b58811471)
+
 
 
 
@@ -71,6 +70,5 @@ pip install opencv-python numpy torch pillow torchvision
 ```bash
 python dlseg.py
 ```
-## Screenshots
-
-![App Screenshot](https://media.geeksforgeeks.org/wp-content/uploads/20230731184445/Image-Segmentation-with-Mask-R-CNN-GrabCut-and-OpenCV-(1)-(1).webp)
+## example
+![one](https://github.com/user-attachments/assets/af1cf9b8-f7ab-42e9-9ee9-081b58811471)

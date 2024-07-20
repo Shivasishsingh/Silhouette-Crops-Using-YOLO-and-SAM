@@ -35,7 +35,8 @@ cd ImageSegmentationWithYOLOandSAM
 ```bash
 python sam_yolo.py
 ```
-
+## Example
+![imgonline-com-ua-twotoone-geUtl7TdzsQZeXyT](https://github.com/user-attachments/assets/7232709f-e209-4edd-ab31-c0a9d64cd8f9)
 
 
 
@@ -70,5 +71,5 @@ pip install opencv-python numpy torch pillow torchvision
 ```bash
 python dlseg.py
 ```
-## example
+## Example
 ![one](https://github.com/user-attachments/assets/af1cf9b8-f7ab-42e9-9ee9-081b58811471)

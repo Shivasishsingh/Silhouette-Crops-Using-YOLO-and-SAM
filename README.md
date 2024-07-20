@@ -23,3 +23,29 @@ git clone https://github.com/yourusername/ImageSegmentationWithYOLOandSAM.git
 cd ImageSegmentationWithYOLOandSAM
 # Run the script:
 python mainseg.py
+
+
+# DeepLabV3 Semantic Segmentation and Cropping
+
+This repository contains Python code for performing semantic segmentation using the DeepLabV3 model and cropping the segmented images based on contours. It utilizes the PyTorch library and the pre-trained DeepLabV3 model to segment images, and then crops the segmented images along the x-axis to isolate the main parts (e.g., a person).
+
+## Features
+
+- **Semantic Segmentation**: Uses the pre-trained DeepLabV3 model for pixel-wise segmentation of images.
+- **Image Cropping**: Crops the segmented images along the x-axis based on the largest contour, which is assumed to be the main part (e.g., a person).
+- **Flexible Input/Output**: Processes images from a specified input directory and saves the final cropped results in an output directory.
+
+## Requirements
+
+To run this code, you need to have the following dependencies installed:
+
+- OpenCV (cv2)
+- NumPy
+- PyTorch
+- Pillow (PIL)
+- torchvision
+
+You can install these dependencies using pip:
+
+```bash
+pip install opencv-python numpy torch pillow torchvision
